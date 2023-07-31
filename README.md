@@ -1,1 +1,5 @@
 # fantasima
+
+tinker
+
+git pull
